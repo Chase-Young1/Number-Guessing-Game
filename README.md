@@ -1,1 +1,1 @@
-# Number guessing game project using C# console app.
+# Number guessing game using C# console app.
